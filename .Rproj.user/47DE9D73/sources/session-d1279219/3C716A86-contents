@@ -1,0 +1,93 @@
+
+
+
+
+
+
+
+source("nepali-news-clustering.R")
+source("nepali-news-memory-efficient.R")
+source("nepali-stemming.R")
+source("nepali-news-stemming-example.R")
+source("nepali-story-completeness.R")
+
+# Load your data
+base_path <- "./../archive/nepali_news_dataset_20_categories_large/nepali_news_dataset_20_categories_large"
+news_data <- read_nepali_news(base_path)
+
+# Run the completeness analysis
+results <- analyze_news_completeness(news_data)
+
+# Visualize completeness for the first story cluster
+p <- visualize_story_completeness(
+  results$analysis_results[[1]]$completeness, 
+  results$analysis_results[[1]]$story_cluster
+)
+print(p)
+
+
+
+
+
+
+
+
+
+
+str(news_data)
+news_data$processed_text <- sapply(news_data$text, preprocess_nepali_with_stemming)
+# Create a memory-efficient Document-Term Matrix
+dtm <- create_memory_efficient_dtm(news_data$processed_text)
+
+# Apply TF-IDF weighting
+tfidf <- weightTfIdf(dtm)
+tfidf_matrix <- as.matrix(tfidf)
+# Apply PCA to reduce dimensions
+pca <- prcomp(tfidf_matrix, center = TRUE, scale. = TRUE)
+
+
+cum_var <- cumsum(pca$sdev^2) / sum(pca$sdev^2)
+# Plot
+plot(cum_var, type = 'b', xlab = 'Number of Principal Components', ylab = 'Cumulative Explained Variance')
+
+
+reduced <- pca$x[, 1:2]  # Using first two principal components
+# Determine optimal number of clusters (k) if needed
+# For simplicity, let's choose k = 20 (as per the number of categories)
+set.seed(42)
+k <- 20
+clusters <- kmeans(reduced, centers = k)$cluster
+news_data$cluster <- clusters
+# Identify similar articles
+similar_pairs <- identify_similar_articles(news_data, similarity_threshold = 0.3, time_window_days = 7)
+
+# Form story clusters
+story_clusters <- form_story_clusters(similar_pairs, news_data)
+# Analyze completeness for each story cluster
+analysis_results <- list()
+
+for(i in seq_along(story_clusters)) {
+  elements <- extract_story_elements(story_clusters[[i]])
+  completeness <- analyze_story_completeness(story_clusters[[i]], elements)
+  
+  analysis_results[[i]] <- list(
+    story_cluster = story_clusters[[i]],
+    elements = elements,
+    completeness = completeness
+  )
+}
+
+
+
+
+# View completeness score
+analysis_results[[1]]$completeness$completeness_score
+
+# View source coverage
+analysis_results[[1]]$completeness$source_coverage
+
+# View missing elements per source
+analysis_results[[1]]$completeness$missing_elements
+# Visualize story completeness
+p <- visualize_story_completeness(analysis_results[[1]]$completeness, story_clusters[[1]], top_n = 10)
+print(p)

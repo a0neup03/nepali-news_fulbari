@@ -1,0 +1,7 @@
+library(data.table)
+readLines("./../archive/nepali_news_dataset_20_categories_large/nepali_news_dataset_20_categories_large/Agriculture/1.txt")
+
+
+
+
+
