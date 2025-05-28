@@ -1,15 +1,23 @@
-# virtual environment
+# Python virtualenv
 news-env/
 
-# locally-downloaded HF models
+# HuggingFace/local models
 models/
 
-# Python cache
+# Raw dataset/archive
+archive/
+archive.zip
+nepal­i_news_dataset_20_categories_large/
+
+# Temp folders
+untitled folder/
+
+# Generated outputs
+*.csv
+
+# Python caches
 __pycache__/
 *.py[cod]
 
-# MacOS metadata
+# macOS
 .DS_Store
-
-# logs, temp files
-*.log
