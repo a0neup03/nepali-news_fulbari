@@ -1,0 +1,139 @@
+ओली: KP Oli, केपी ओली, ओली बा, बा, कमरेड ओली, खड्गप्रसाद शर्मा ओली, Khadga Prasad Sharma Oli, KP Sharma Oli, ओलीजी, प्रधानमन्त्री ओली, नेताजी ओली
+
+देउवा: शेरबहादुर देउवा, Sher Bahadur Deuba, देउवाजी, प्रधानमन्त्री देउवा, नेता देउवा, शेर बहादुर देउवा, SB Deuba, कांग्रेस सभापति देउवा
+
+प्रचण्ड: पुष्पकमल दाहाल, प्रचण्ड, Pushpa Kamal Dahal, Prachanda, पीके दाहाल, कमरेड प्रचण्ड, दाहालजी, माओवादी नेता प्रचण्ड, चेयरम्यान प्रचण्ड, Dahal
+
+नेपालप्रसाद: माधवकुमार नेपाल, Madhav Kumar Nepal, माधव नेपाल, कमरेड माधव, नेपालजी, एकीकृत समाजवादी अध्यक्ष, MK Nepal, माधव जी
+
+सरकार: Government, गभर्नमेन्ट, संघ, संघीय सरकार, प्रदेश सरकार, स्थानीय सरकार, सरकारवाला, नेपाल सरकार, केन्द्र सरकार, गठबन्धन सरकार, मन्त्रिपरिषद्
+
+नेपाली कांग्रेस: NC, Nepali Congress, कांग्रेस, नेका, काङ्ग्रेस, नेपाली काँग्रेस, Congress, एनसी, कांग्रेस पार्टी, Nepali Congress Party
+
+एमाले: CPN-UML, UML, नेकपा (एमाले), एमाले, नेकपा एमाले, मार्क्सवादी एमाले, CPN UML, युएमएल, नेपाल कम्युनिस्ट पार्टी एमाले, Communist Party of Nepal UML
+
+माओवादी केन्द्र: CPN (Maoist Centre), माओवादी, Maoist Centre, नेकपा (माओवादी केन्द्र), माओवादी पार्टी, प्रचण्डको पार्टी, CPN-MC, माओवादी केन्द्र, नेपाल कम्युनिस्ट पार्टी माओवादी केन्द्र
+
+राष्ट्रिय प्रजातन्त्र पार्टी: राप्रपा, Rastriya Prajatantra Party, RPP, राप्रपा नेपाल, कमल थापाको पार्टी, राष्ट्रिय प्रजातान्त्रिक पार्टी, Raprapa
+
+नेपाल मजदुर किसान पार्टी: नेमकिपा, Nepal Majdur Kisan Party, NMKP, मजदुर किसान पार्टी, नेमकिपा भक्तपुर, Workers and Peasants Party
+
+भ्रष्टाचार: corruption, करप्सन, भ्रष्ट गतिविधि, अनियमितता, घुसखोरी, कालोबजारी, भ्रष्ट आचरण, दुर्नीति, रिश्वतखोरी, चोरी चमेरी
+
+अर्थतन्त्र: economy, इकोनोमी, आर्थिक अवस्था, अर्थ, मुलुकको अर्थतन्त्र, राष्ट्रिय अर्थतन्त्र, आर्थिक क्षेत्र, Economic system, अर्थव्यवस्था
+
+रोजगारी: employment, जागिर, job, रोजगार, नोकरी, काम, Employment opportunities, बेरोजगारी, job market, रोजगार सिर्जना, काम धन्दा
+
+शिक्षा: education, पढाइ, स्कूल, कलेज, विद्यालय, विश्वविद्यालय, शैक्षिक क्षेत्र, Educational sector, शिक्षा क्षेत्र, पाठशाला, शिक्षा व्यवस्था
+
+स्वास्थ्य: health, हेल्थ, स्वास्थ्य सेवा, जनस्वास्थ्य, उपचार, Health care, चिकित्सा, स्वास्थ्य क्षेत्र, Medical, हेल्थकेयर
+
+प्रवाल: coral, कोरल, समुद्री प्रवाल, Coral reef, प्रवाल चट्टान, marine coral
+
+प्रवास: migration, विदेश पलायन, डायस्पोरा, बिदेश बसाइँ, परदेश, आप्रवासन, diaspora, foreign migration, प्रवासन
+
+प्रविधि: technology, टेकनोलजी, टेक्नोलोजी, नयाँ प्रविधि, सूचना प्रविधि, Tech, IT, Information Technology, तकनीक
+
+पर्यटन: tourism, टुरिज्म, घुमफिर, पर्यटन व्यवसाय, पर्यटक, Tourist industry, पर्यटन क्षेत्र, Travel and Tourism
+
+खनिज: mineral, मिनरल, खानीजन्य पदार्थ, खनिज पदार्थ, Mineral resources, खानी, खनिज सम्पदा
+
+ऊर्जा: energy, उर्जा, इनर्जी, शक्ति, विद्युत् ऊर्जा, Power, Energy sector, ऊर्जा क्षेत्र, बिजुली
+
+चुनाव: election, निर्वाचन, भोट, भोटिङ, मतदान, स्थानीय चुनाव, आम चुनाव, चुनाबी, electoral process, मतदान प्रक्रिया
+
+जलस्रोत: water resources, पानीको स्रोत, जल सम्पदा, नदीनाला, Water resource, जल संसाधन, पानी स्रोत
+
+वन्यजन्तु: wildlife, जंगली जनावर, जनावर, वन्यजन्तु संरक्षण, Wildlife conservation, जङ्गली प्राणी, वन्य प्राणी
+
+वातावरण संरक्षण: environmental protection, पर्यावरण संरक्षण, वातावरण जोगाउने, प्रकृति संरक्षण, Environment conservation, पर्यावरण सुरक्षा
+
+प्रदूषण: pollution, पोलुसन, वायु प्रदूषण, ध्वनि प्रदूषण, जल प्रदूषण, Environmental pollution, प्रदुषण, दूषित वातावरण
+
+प्रवासी श्रमिक: migrant workers, आप्रवासी कामदार, विदेशमा काम गर्ने नेपाली, श्रमिक, Foreign workers, प्रवासी कामदार, बिदेशी श्रमिक
+
+महिला अधिकार: women's rights, नारी अधिकार, महिला हक, लैङ्गिक समानता, Gender equality, महिला सशक्तिकरण, Women empowerment
+
+जातीय विभेद: caste discrimination, जातीय भेदभाव, छुवाछुत, विभेद, Caste based discrimination, जातिय भेदभाव, अस्पृश्यता
+
+विद्यार्थी: student, विद्यार्थीहरू, छात्र, छात्रा, Students, शिक्षार्थी, पढ्ने केटाकेटी
+
+शिक्षक: teacher, गुरु, शिक्षिका, अध्यापक, अध्यापिका, Teachers, शिक्षक शिक्षिका, गुरुजी
+
+अस्पताल सेवा: hospital service, हस्पिटल सेवा, अस्पतालमा उपचार, स्वास्थ्य उपचार, Hospital care, Medical service, चिकित्सा सेवा
+
+महामारी: pandemic, epidemic, सरुवा रोग, रोगको प्रकोप, विश्वव्यापी महामारी, Global pandemic, संक्रामक रोग
+
+मोबाइल नेटवर्क: mobile network, सेलुलर नेटवर्क, मोबाइल सेवा, फोन नेटवर्क, Cellular network, Mobile service, मोबाइल कनेक्टिभिटी
+
+इन्टरनेट ब्यान्डविड्थ: internet bandwidth, इन्टरनेट स्पिड, इन्टरनेट गति, नेट स्पिड, Internet speed, Broadband, नेट कनेक्टिभिटी
+
+हिमालय ट्रेकिङ: Himalayan trekking, हिमाल यात्रा, पदयात्रा, ट्रेकिङ, Mountain trekking, हिमाली पदयात्रा, Hiking
+
+धार्मिक मेला: religious fair, मेला, धार्मिक उत्सव, जात्रा, Religious festival, धार्मिक पर्व, Religious gathering
+
+सडक दुर्घटना: road accident, बाटो दुर्घटना, सवारी दुर्घटना, दुर्घटना, Traffic accident, यातायात दुर्घटना, गाडी दुर्घटना
+
+लोकमार्ग मर्मत: highway maintenance, सडक मर्मत, बाटोको मर्मत, हाइवे मर्मत, Road maintenance, सडक सुधार, Highway repair
+
+खाडी रोजगारी: Gulf employment, खाडी मुलुकमा रोजगारी, खाडीका देशमा काम, Gulf jobs, मध्यपूर्वी रोजगारी, Middle East employment
+
+रोजगार बीमा: employment insurance, जब इन्स्योरेन्स, बेरोजगार बीमा, Job insurance, Employment benefits, श्रमिक बीमा
+
+क्रिकेट: cricket, क्रिकेट खेल, Cricket game, Cricket sport, क्रिकेट प्रतियोगिता
+
+फुटबल: football, सकर, Soccer, फुटबल खेल, Football game, Football sport, फुटबल प्रतियोगिता
+
+भलिबल: volleyball, भलिबल खेल, Volleyball game, भलिबल प्रतियोगिता
+
+कबड्डी: kabaddi, कबड्डी खेल, Kabaddi game, कबड्डी प्रतियोगिता
+
+बक्सिङ: boxing, बक्सिंग खेल, Boxing game, Boxing sport, बक्सिङ प्रतियोगिता
+
+बास्केटबल: basketball, बास्केटबल खेल, Basketball game, Basketball sport, बास्केटबल प्रतियोगिता
+
+टेनिस: tennis, टेनिस खेल, Tennis game, Tennis sport, टेनिस प्रतियोगिता
+
+चलचित्र प्रिमियर: film premiere, मुभी प्रिमियर, फिल्म प्रदर्शन, सिनेमा प्रिमियर, Movie premiere, Film release, चलचित्र प्रदर्शन
+
+संगीत कार्यक्रम: music concert, म्युजिक कन्सर्ट, सांगीतिक कार्यक्रम, Musical program, गीत संगीत कार्यक्रम, Live music
+
+स्तम्भ लेख: column article, स्तम्भकारको लेख, लेख, विचार, Opinion column, Editorial column, स्तम्भ
+
+पाठक समालोचना: reader's review, पाठक प्रतिक्रिया, पाठकको भनाइ, Reader feedback, Reader opinion, पाठक टिप्पणी
+
+दृष्टि शिविर: eye camp, आँखा शिविर, आँखाको जाँच, Eye care camp, Vision camp, नेत्र शिविर
+
+सुरक्षित यातायात: safe transportation, सुरक्षित यात्रा, यातायात सुरक्षा, Safe transport, Transportation safety, यात्रा सुरक्षा
+
+गोपनीयता: privacy, प्राइभेसी, व्यक्तिगत गोपनीयता, Personal privacy, Data privacy, निजता
+
+साइबर सुरक्षा: cyber security, साइबरसुरक्षा, अनलाइन सुरक्षा, Cybersecurity, Online security, डिजिटल सुरक्षा
+
+मौसम अपडेट: weather update, मौसम जानकारी, हावापानीको खबर, Weather forecast, मौसम पूर्वानुमान, Weather report
+
+बजार मूल्य: market price, बजार भाउ, मूल्य, बजार दर, Market rate, Price, बजारको भाउ
+
+नयाँ परियोजना: new project, नयाँ योजना, नयाँ आयोजना, New scheme, नयाँ कार्यक्रम, Development project
+
+घटना रेकर्ड: incident record, घटना विवरण, घटनाको अभिलेख, Incident report, Event record, घटना दर्ता
+
+शिक्षण प्रविधि: teaching technology, अध्यापन प्रविधि, शैक्षिक प्रविधि, Educational technology, Teaching method, शिक्षा प्रविधि
+
+कृषि प्रविधि: agricultural technology, कृषि टेक, खेतीपातीको प्रविधि, Agriculture tech, Farming technology, कृषि तकनीक
+
+वन प्रविधि: forest technology, वन टेक, जंगलको प्रविधि, Forestry technology, Forest tech, वन तकनीक
+
+ग्लोबल वार्मिंग: global warming, विश्वव्यापी तापमान वृद्धि, भूमण्डलीय उष्णता, Climate change, Global heating, जलवायु परिवर्तन
+
+संस्कृति कार्यक्रम: cultural program, सांस्कृतिक कार्यक्रम, परम्परागत कार्यक्रम, Cultural event, Traditional program, सांस्कृतिक गतिविधि
+
+श्रमिक संगठन: labor union, मजदुर संगठन, ट्रेड युनियन, Workers union, Labour organization, श्रमिक युनियन
+
+उद्योग प्रगति: industrial progress, औद्योगिक विकास, उद्योगको उन्नति, Industrial development, Industry growth, उद्योग विकास
+
+वित्तीय समावेशीकरण: financial inclusion, वित्तीय पहुँच, आर्थिक पहुँच, Financial access, Banking inclusion, वित्तीय सेवा पहुँच
+
+भूकम्प उद्धार: earthquake rescue, भूकम्पबाट उद्धार, भूकम्पीय राहत, Earthquake relief, Seismic rescue, भूकम्प राहत
+
+चुनावी परिणाम: election results, चुनावको नतिजा, निर्वाचन परिणाम, Electoral results, चुनाव नतिजा, Voting results
