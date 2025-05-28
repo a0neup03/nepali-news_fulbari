@@ -1,0 +1,15 @@
+# virtual environment
+news-env/
+
+# locally downloaded HF models
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# MacOS metadata
+.DS_Store
+
+# optionally, ignore logs or scratch files
+*.log
