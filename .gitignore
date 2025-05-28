@@ -1,23 +1,9 @@
-# Python virtualenv
 news-env/
-
-# HuggingFace/local models
 models/
-
-# Raw dataset/archive
 archive/
 archive.zip
-nepal­i_news_dataset_20_categories_large/
-
-# Temp folders
-untitled folder/
-
-# Generated outputs
+nepali_news_dataset_20_categories_large/
 *.csv
-
-# Python caches
 __pycache__/
 *.py[cod]
-
-# macOS
 .DS_Store

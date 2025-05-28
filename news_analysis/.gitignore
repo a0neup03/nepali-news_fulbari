@@ -1,0 +1,13 @@
+# R session / project files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R Markdown output
+*.html
+*.utf8.md
+*_cache/
+
+# Operating-system files
+.DS_Store
